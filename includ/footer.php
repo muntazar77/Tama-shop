@@ -37,7 +37,7 @@
       </div>
 
       <div class="credit">
-        created by <span> Mariam & Heba & Rabab </span> | Graduation Project
+        created by <span> Muntadher Hasan</span> |Shop Project
       </div>
     </section>
 
