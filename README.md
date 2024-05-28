@@ -5,8 +5,9 @@
 
 ## :gear: Tech Stack
 
-- Html+ Css
-- Js
+- Html+ Css + Js
+- Php
+- Mysql
 - Boostrap
 - fontawesomeN
 - Neumorphism Design
